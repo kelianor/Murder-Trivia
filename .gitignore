@@ -1,0 +1,6 @@
+.venv
+src/server/config.py
+src/server/__pycache__
+data
+.out
+.env
